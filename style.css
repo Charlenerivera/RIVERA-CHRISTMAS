@@ -1134,7 +1134,7 @@ img {
 /* CAROL MOBILE */
 @media screen and (max-width: 520px) {
   .carolBanner {
-    padding-top: 20rem;
+    padding-top: 10rem;
   }
   .carolBanner h1 {
     font-size: 5rem;
@@ -1151,9 +1151,6 @@ img {
     font-size: 3rem;
     line-height: 4rem;
   }
-  .carolBanner__wrapper {
-    margin-top: -10rem;
-    margin-bottom: -50rem;
 }
 .bannerCarol__cards {
   grid-template-columns: 1fr;
@@ -1161,7 +1158,7 @@ img {
 .carolBanner img {
   width: 100%;
 }
-}
+
 /* FOODS & DRINKS */
 .foodBanner {
   padding: 5rem 0;
